@@ -30,9 +30,12 @@ npx skills add ./dist/ai-sdk.skill
 ## Use
 
 Prompt ideas:
-- "Implement AI SDK tool calling that returns JSON and renders a WeatherCard."
-- "Show how to stream UI with @ai-sdk/rsc in Next.js App Router."
-- "Refactor a big switch statement into a tool renderer registry."
+I used it interally in a few apps:
+Suggeestions are dynamically generated to create custom learning environments more condusive to convey certain feedback:
+<img width="1726" height="989" alt="Screenshot 2026-01-28 at 3 21 34 AM" src="https://github.com/user-attachments/assets/f961fff2-6658-46e7-974f-8d3185ee4637" />
+Or here to give the user ways to configure their interview based on their desired conversation:
+<img width="882" height="586" alt="Screenshot 2026-01-28 at 3 23 59 AM" src="https://github.com/user-attachments/assets/<img width="752" height="955" alt="Screenshot 2026-01-28 at 3 25 02 AM" src="https://github.com/user-attachments/assets/45143d76-4303-4ed4-b280-c2882321f09e" />
+e1279b1b-c6c8-45e9-afef-8a29081ae09b" />
 
 ## What's inside
 

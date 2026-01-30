@@ -9,7 +9,7 @@
 |__/
 ```
 
-Render UI from AI SDK tool calls. This repo ships a shareable Codex skill named `ai-sdk` that helps you:
+Agentic Skill to use the Vercel AI SDK for json-render . This repo ships a shareable  skill named `ai-sdk` that helps you:
 
 - Return JSON from tool calls and map outputs to React components
 - Render tool outputs on the client or stream UI from the server with RSC
